@@ -15,7 +15,7 @@ function validar(){
         console.log("Debes ser mayor de 18 años")
         alert("Debes ser mayor de 18 años")
     }
-    if (vEdad <100){
+    if (vEdad >=100){
         console.log("Debes poner una edad valida (menor que 100)")
         alert("Debes poner una edad valida (menor que 100)")
     }
